@@ -1,0 +1,6 @@
+customer_name,email,service_category,status,next_action
+North Harbor Studio,hello@northharbor.example,Website Audit,Active,Confirm public URL
+North Harbor Studio,hello@northharbor.example,Website Audit,Duplicate,Merge with active row
+Willow Market,owner@willowmarket.example,Copy Rewrite,Active,Request current hero copy
+Bright Path Lab,contact@brightpath.example,Spreadsheet Cleanup,Missing Scope,Ask which columns need normalization
+Field Note Press,ops@fieldnotepress.example,Metadata QA,Active,Confirm title and required retailer fields
