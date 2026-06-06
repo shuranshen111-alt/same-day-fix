@@ -1,0 +1,9 @@
+field,provided_value,normalized_value,issue,priority
+Title,The Quiet Atlas,The Quiet Atlas,None,OK
+Subtitle,A visual guide to slower travel,A Visual Guide to Slower Travel,Title-case inconsistency,Low
+ISBN-13,978-1-4028-9462-6,9781402894626,Remove punctuation for retailer import,High
+Contributor,Lee Morgan,Morgan, Lee,Normalize contributor display/order,Medium
+Format,Hard Cover,Hardcover,Use controlled format value,High
+List Price,$48.00,48.00,Store currency separately from numeric price,High
+Publication Date,6/5/26,2026-06-05,Use ISO date format,High
+Description,"A beautiful, elevated book about travel.","A visual guide to planning slower, more intentional trips through 40 illustrated destinations.",Replace generic description with specific buyer-facing summary,Medium
